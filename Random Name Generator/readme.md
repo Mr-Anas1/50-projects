@@ -1,1 +1,2 @@
-Ra
+Random Name Generator
+
